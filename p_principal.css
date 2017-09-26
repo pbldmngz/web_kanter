@@ -1,0 +1,83 @@
+body{
+	background-image:url(imagenes/fondo.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	cursor: crosshair;
+}
+img{
+  cursor: pointer;
+}
+a:link{
+  cursor:  wait;
+
+}
+a:link {text-decoration:none; font-weight: bold; color:white; }
+a:visited {color: #eeeeee;}
+a:focus {outline: dashed thin red;}
+a:hover {color: #58FAF4;}
+a:active {font-style: italic;}
+
+li{background-color:#CCCCCC;
+display:inline;
+}
+
+#contenedor {
+  display: table;
+
+}
+ 
+#contenidos {
+  display: table-row;
+
+}
+ 
+#columna1 {
+	display: table-cell;
+	background-color:#000000;
+	padding-left:40px;
+	padding-bottom:5px;
+	text-align:center;
+	margin-left:2.7%;
+	padding:15px;
+	width:93%;
+	opacity: 0.9;
+	height:auto;
+	float:left
+}
+
+/*La columna3 y columna4 son separadores en la "tabla" en la que están alineadas las otras dos colunas */
+
+#columna3 {
+    display: table-cell;
+	width:1%;
+}
+
+#columna4 {
+    display: table-cell;
+	width:2.2%;
+}
+
+#columna2 {
+	display: table-cell;
+	background-color:#61210B;
+	text-align:center;
+	padding-top:3%;
+	width:20%;
+	opacity: 0.9;
+	letter-spacing: 1pt;
+	vertical-align: top;
+	height:auto;
+}
+
+
+#bar{background-color:black;
+    float:bottom;
+	text-align:center;
+	margin:15px auto;
+	padding:15px;
+	width:93.5%;
+	opacity: 0.9;
+	vertical-align: middle;
+
+}
