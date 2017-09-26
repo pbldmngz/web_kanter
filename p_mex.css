@@ -1,5 +1,5 @@
 ﻿body{
-	background-image:url(imagenes/wallpaper_1.jpg);
+	background-image:url(imagenes/wallpaper_3.jpg);
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -60,7 +60,7 @@ display:inline;
 
 #columna2 {
 	display: table-cell;
-	background-color:#819FF7;
+	background-color:#0174DF;
 	text-align:center;
 	padding-top:3%;
 	width:20%;
