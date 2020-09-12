@@ -1,2 +1,2 @@
 # web_kanter
-Future Parkour web page
+Esta clase fue una mala improvisación, nunca hubo secuencia a ninguna actividad, por eso verás muchas cosas a medias.
